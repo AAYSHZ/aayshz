@@ -9,11 +9,7 @@ vibe coder. building cool stuff with node.js.
 ---
 
 ```js
-const aayshz = {
-  role:     "vibe coder",
-  stack:    ["Node.js", "JavaScript"],
-  currently: "building something cool",
-  mood:     "always in the zone 🎧",
+co
 };
 ```
 
